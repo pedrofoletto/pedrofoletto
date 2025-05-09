@@ -20,8 +20,8 @@
 
 ## 📫 Como me encontrar
 
-- GitHub: [github.com/pedrofoletto]((https://github.com/pedrofoletto))
-- LinkedIn: [linkedin.com/in/pedrofoletto](https://linkedin.com/in/pedrofoletto)
+- GitHub: [github.com/pedrofoletto](https://github.com/pedrofoletto)
+- LinkedIn: [linkedin.com/in/pedrofoletto](https://linkedin.com/in/pedro-foletto)
 
 ---
 
