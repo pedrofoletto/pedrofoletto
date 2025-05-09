@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Olá! Eu sou o Foletto
 
-<!--
-**pedrofoletto/pedrofoletto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Engenheiro de Controle e Automação apaixonado por tecnologia e programação de sistemas embarcados.
 
-Here are some ideas to get you started:
+## 💻 Tecnologias e Ferramentas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔧 Linguagens: C, C++, Arduino
+- ⚙️ Plataformas: Arduino
+- 🛠️ IDEs: VS Code, Arduino IDE
+
+## 🚀 O que estou fazendo atualmente
+
+- Primeiro semestre da faculdade
+
+## 🌱 Interesses
+
+- Robótica
+- IoT
+- Inteligência artificial embarcada
+
+## 📫 Como me encontrar
+
+- GitHub: [github.com/pedrofoletto]((https://github.com/pedrofoletto))
+- LinkedIn: [linkedin.com/in/pedrofoletto](https://linkedin.com/in/pedrofoletto)
+
+---
+
+⭐ Obrigado por visitar meu perfil! Fique à vontade para explorar meus repositórios ou entrar em contato.
