@@ -18,10 +18,6 @@
 - IoT
 - Inteligência artificial embarcada
 
-## 📫 Como me encontrar
-
-- [LinkedIn](https://linkedin.com/in/pedro-foletto/)
-
 ---
 
 ⭐ Obrigado por visitar meu perfil! Fique à vontade para explorar meus repositórios ou entrar em contato.
