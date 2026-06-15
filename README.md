@@ -20,11 +20,11 @@ Graduando em Engenharia de Controle e Automação. Foco acadêmico e profissiona
 
 ## ⚙️ Caixa de Ferramentas  
 
-■ Linguagens de Programação  
-  ├─ C / C++  
-  ├─ Ada  
+■ Linguagens de Programação - Ordem    
+  ├─ C / C++ (Principal)  
+  ├─ Python 
   ├─ Julia  
-  └─ Python   
+  └─ Ada   
 
 ■ Plataformas, Simulação & Ambientes  
   ├─ Engenharia/Simulação: MATLAB, SimulIDE  
