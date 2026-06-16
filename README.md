@@ -22,8 +22,8 @@ Graduando em Engenharia de Controle e Automação. Foco acadêmico e profissiona
 
 ■ Linguagens de Programação - Ordem    
   ├─ C / C++ (Principal)  
-  ├─ Python 
-  ├─ Julia  
+  ├─ Python   
+  ├─ Julia    
   └─ Ada   
 
 ■ Plataformas, Simulação & Ambientes  
